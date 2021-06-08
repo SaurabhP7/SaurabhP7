@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YourGoodFriendSP
 - 👀 I’m interested in full stack web development and machine learning
-- 🌱 I’m currently learning the above technologies and solve problems.
+- 🌱 I’m currently learning the above technologies and solving problems using them.
 - 💞️ I’m looking to collaborate on open source projects .I am a newbie and still has a long way to go :)
 
 <!---
