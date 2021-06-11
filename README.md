@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @YourGoodFriendSP
+- 👋 Hi, I’m Saurabh
 - 👀 I’m interested in full stack web development and machine learning
 - 🌱 I’m currently learning how to solve problems using the above technologies.
 - 💞️ I’m looking to collaborate on open source projects.
