@@ -1,7 +1,7 @@
 - 👋 Hi, Saurabh here. I am currently a Data Scientist.
-- 👀 I’m interested in full stack web development and machine learning.
-- ✨ Tech Stacks - React, Node , Mongoose , Express , SkLearn
-- 🌱 Languages Proficiency- Python, C++, JavaScript.
+- 👀 I’m interested in Full Stack Web Development, Algorithms and Machine Learning.
+- ✨ Tech Stacks - React, Node , Mongoose , Express , ScikitLearn
+- 🌱 Languages Proficiency - Python, C++, JavaScript.
 - 💞️ I’m looking to remote frontend/backend software engineering roles.
 - ✨ Feel free to ping me up with exciting opporunities.
 
