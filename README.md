@@ -1,4 +1,4 @@
-- 👋 Hi,Saurabh here. I am currently working as Data Scientist.
+- 👋 Hi, Saurabh here. I am currently a Data Scientist.
 - 👀 I’m interested in full stack web development and machine learning.
 - ✨ Tech Stacks - React, Node , Mongoose , Express , SkLearn
 - 🌱 Languages Proficiency- Python, C++, JavaScript.
