@@ -3,7 +3,7 @@
 - ✨ Tech Stacks - React, Node , Mongoose , Express , SkLearn
 - 🌱 Languages Proficiency- Python, C++, JavaScript.
 - 💞️ I’m looking to remote frontend/backend software engineering roles.
--  Ping me up with exciting opporunities.
+- ✨ Feel free to ping me up with exciting opporunities.
 
 <!---
 YourGoodFriendSP/YourGoodFriendSP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
