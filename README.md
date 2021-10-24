@@ -2,7 +2,7 @@
 - 👀 I’m interested in Full Stack Web Development, Algorithms and Machine Learning.
 - ✨ Tech Stacks - React, Node , Mongoose , Express , ScikitLearn
 - 🌱 Languages Proficiency - Python, C++, JavaScript.
-- 💞️ I’m looking to remote frontend/backend software engineering roles.
+- 💞️ I’m looking for remote frontend/backend software engineering roles.
 - ✨ Feel free to ping me up with exciting opporunities.
 
 <!---
