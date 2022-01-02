@@ -1,6 +1,6 @@
 - 👋 Hi, Saurabh here.
 - 👀 I’m interested in Full Stack Web Development, Algorithms and Machine Learning.
-- ✨ Tech Stacks - React, Node , Mongoose , Express , ScikitLearn
+- ✨ Tech Stacks - React, Node , MongoDB , Express , ScikitLearn
 - 🌱 Languages Proficiency - Python, C++, JavaScript.
 
 <!---
