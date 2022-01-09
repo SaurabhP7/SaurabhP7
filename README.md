@@ -1,6 +1,6 @@
 - 👋 Hi, Saurabh here.
-- 👀 I’m interested in Algorithms and FullStack Web Development
-- ✨ Tech Stacks - React, Node , MongoDB , Express , MaterialUI
+- 👀 I’m interested in Algorithms and Full-Stack Web Development
+- ✨ Tech Stacks- React, Redux, Node, MongoDB, Express, MaterialUI
 - 🌱 Languages Proficiency - C++, JavaScript.
 
 <!---
