@@ -1,7 +1,7 @@
 - 👋 Hi, Saurabh here.
 - 👀 I’m interested in Algorithms and Full-Stack Web Development
-- ✨ Tech Stacks- React, Redux, Node, MongoDB, Express, MaterialUI
-- 🌱 Languages Proficiency - C++, JavaScript, TypeScript.
+- ✨ Tech Stacks- React, Redux, Node, PostgreSQL+Sequelize(ORM)
+- 🌱 Languages Proficiency - C++, TypeScript ,Python
 
 <!---
 YourGoodFriendSP/YourGoodFriendSP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
