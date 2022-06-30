@@ -1,4 +1,4 @@
-- 👋 Hi, Saurabh here.
+- 👋 Hi There
 - 👀 I’m interested in Algorithms and Full-Stack Web Development
 - ✨ Tech Stacks- React, Redux, Node, MongoDB, PostgreSQL+Sequelize(ORM)
 - 🌱 Languages Proficiency - C++, TypeScript ,Python
