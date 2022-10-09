@@ -1,9 +1,9 @@
 - 👋 Hi There
 - 👀 I’m interested in Algorithms and Full-Stack Web Development
-- ✨ Tech Stacks- React, Redux, Node, MongoDB, PostgreSQL+Sequelize(ORM)
-- 🌱 Languages Proficiency - C++, TypeScript ,Python
+- ✨ Tech Stacks- React, Redux, Go, MongoDB, PostgreSQL+(GORM)
+- 🌱 Languages Proficiency - Go, Typescript, C++
 
-All commits belongs to my personal project. My Office work is in private repo and with company username.
+Few Sideprojects - AnimeHQ.
 
 <!---
 YourGoodFriendSP/YourGoodFriendSP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
