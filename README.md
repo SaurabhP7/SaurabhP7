@@ -1,7 +1,7 @@
 - 👋 Hi There Saurabh here
 - 👀 I’m interested in Algorithms and Full-Stack Web Development
-- ✨ Tech Stacks- React, Go, Postgresql, MongoDB
-- 🌱 Languages Proficiency - Go, Typescript, C++
+- ✨ Tech Stacks- React, ElasticSearch, Postgresql, MongoDB
+- 🌱 Languages Proficiency - Go, Typescript, Python , Java
 
 Few Sideprojects - AnimeHQ.
 
