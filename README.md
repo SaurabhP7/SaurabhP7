@@ -1,7 +1,7 @@
 - 👋 Hi There Saurabh Puthal here
 - 👀 I’m interested in backend development and scalable software 
 - ✨ Tech Stacks- GCP, ElasticSearch, Postgresql, Redis
-- 🌱 Languages Proficiency - Go, Python, Java(Basics)
+- 🌱 Languages Proficiency - Go, Python, Java
 
 Few Sideprojects - AnimeHQ.
 
